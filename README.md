@@ -1,6 +1,6 @@
 👋 Hi, I’m Bereket Desalegn (@Bereket-dev)
-👀 I’m interested in web development, problem-solving, and building innovative tech solutions.
-🌱 I’m currently learning full-stack development, focusing on JavaScript, React, and backend technologies.
+👀 I’m interested in building innovative tech solutions.
+🌱 I’m currently learning full-stack development, focusing on JavaScript.
 💞️ I’m looking to collaborate on open-source projects, web applications, and tech initiatives that make an impact.
 📫 How to reach me: bereketdesalegn097@gmail.com | https://www.linkedin.com/in/bereket-motivedteddeveloper
 😄 Pronouns: He/Him
