@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on open-source projects, web applications, and tech initiatives that make an impact.
 
-📫 How to reach me: bereketdesalegn097@gmail.com | https://www.linkedin.com/in/bereket-motivedteddeveloper
-
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love exploring new technologies and sharing my learning journey on my Telegram channel—Bekina Dev! 🚀
