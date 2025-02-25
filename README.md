@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I can't say, "I once spent hours debugging my code, only to realize I had forgotten a semicolon." JavaScript, why do you do this to me? 🤦‍♂️😂
+⚡ Fun fact: I can't say, "I once spent hours debugging my code, only to realize I had forgotten a semicolon." TypeScript, why do you do this to me? 🤦‍♂️😂
 
 
 <!---
