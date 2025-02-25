@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I love exploring new technologies and sharing my learning journey on my Telegram channel—Bekina Dev! 🚀
+⚡ Fun fact: I can't say, "I once spent hours debugging my code, only to realize I had forgotten a semicolon." JavaScript, why do you do this to me? 🤦‍♂️😂
 
 
 <!---
